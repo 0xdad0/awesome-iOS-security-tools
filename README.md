@@ -93,6 +93,8 @@
 
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) A library to communicate with services on iOS devices using native protocols.
 
+- [iphone-usb-reverse-tethering-windows](https://github.com/0xbaksa/iphone-usb-reverse-tethering-windows) Share a Windows PC's internet with an iPhone over USB (reverse tethering) using the usbmuxd CDC-NCM mode switch and the usbccgp fixes Windows needs.
+
 - [ideviceinstaller](https://github.com/libimobiledevice/ideviceinstaller) A command-line application to manage apps and app archives on iOS devices.
 
 - [libideviceactivation](https://github.com/libimobiledevice/libideviceactivation) A library to manage the activation process of Apple iOS devices.
