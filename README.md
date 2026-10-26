@@ -29,6 +29,8 @@
 
 - [imobax](https://github.com/Siguza/imobax). The iOS Mobile Backup Xtractor.
 
+- [iPhone Data Manager](https://iphonedatamanager.com). Native macOS GUI tool to inspect local iOS backups (`Manifest.db`), extract files by domain, and export WhatsApp `ChatStorage.sqlite` & iMessage `sms.db` databases to PDF/HTML/CSV offline.
+
 - [Clutch](https://github.com/KJCracks/Clutch). Clutch is a high-speed iOS decryption tool. Clutch supports the iPhone, iPod Touch, and iPad as well as all iOS version, architecture types, and most binaries. Clutch is meant only for educational purposes and security research.
 
 - [ish](https://github.com/ish-app/ish). A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation.
