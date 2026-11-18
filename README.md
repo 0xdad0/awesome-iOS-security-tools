@@ -124,6 +124,7 @@
 - [Ghidra](https://ghidra-sre.org/)
   - [Ghidra-script](https://github.com/ghidraninja/ghidra_scripts)
 - [Cutter](https://cutter.re/)
+- [REA](https://github.com/morluto/rea) - Local CLI and MCP server for inspecting Mach-O binaries, including architecture and hardening flags.
 - [Radare2](https://rada.re/n/)
 - Hooper
 - [Mara Framework](https://github.com/xtiankisutsa/MARA_Framework)
