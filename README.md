@@ -46,6 +46,8 @@
 
 - [bagbak](https://github.com/ChiChou/bagbak). Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
 
+- [IPA-Decrypt](https://github.com/Re13orn/IPA-Decrypt). GUI App Store and TestFlight IPA downloader and FairPlay decryptor for macOS and iOS. Downloads the store IPA and decrypts it locally against the matching credential, so no live process or jailbreak is needed; a supported Apple Silicon Mac can recover a FairPlay model locally. GPL-3.0.
+
 
 
 
